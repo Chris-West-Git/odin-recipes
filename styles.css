@@ -1,0 +1,21 @@
+* {
+    color:aliceblue;
+    background-color: hsl(204,8%,12%);
+}
+
+a {
+    color:rgb(128, 10, 75);
+}
+h1 {
+   text-align: center;
+   
+}
+
+p {
+    text-align: center;
+}
+
+img {
+    height:300px;
+    width:auto;
+}
